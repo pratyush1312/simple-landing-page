@@ -1,0 +1,39 @@
+html, body 
+{
+	 max-width: 100%;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+#top 
+{
+	background-color: #cc0e74;
+	padding: 7% 15%;
+	text-align: center;
+	color: #fff;
+}
+
+h1 {
+	  font-family: "Montserrat";
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 50px;
+}
+
+p {
+	font-family: sans-serif;
+	font-weight: lighter;
+	color: grey;
+	font-size: 20px;
+}
+
+.top-image {
+
+	height: 500px;
+	width: 500px;
+	position: relative;
+	left: 30rem;
+	border-width: 70%;
+
+}

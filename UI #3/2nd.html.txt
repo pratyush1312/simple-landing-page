@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Try</title>
+</head>
+<body>
+
+	<section id="top">
+		<h1>Here is the text!</h1>
+		<p>This s just for the trial</p>
+		<img src="mobile.png">
+		
+	</section>
+
+	<section id="middle">
+		
+	</section>
+
+	<section id="bottom">
+
+		
+	</section>
+
+</body>
+</html>
